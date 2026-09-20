@@ -1,2 +1,0 @@
-# Smallx
-Tournament web
